@@ -54,8 +54,10 @@ https.get(url , function(response)
 
 ////////////////////\\\\\\\\\\\\\\\\\
 
-app.listen(process.env.PORT||3000, function()
+app.listen(process.env.PORT || 3000, function()
 {
     console.log("chalgyaa o shera");
 
 })
+
+// heroku server : https://obscure-waters-92726.herokuapp.com
