@@ -1,6 +1,7 @@
 # weather-checker
 API used :- openweathermap 
-also hosted on heroku :  https://obscure-waters-92726.herokuapp.com
+<h3>Also hosted on heroku :  https://obscure-waters-92726.herokuapp.com
+</h3>
 
 <h1>how to use </h1>
 <p>1.just simply download the zip file and unzip it once it downloaded </p>
