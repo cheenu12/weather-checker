@@ -1,0 +1,24 @@
+
+h2{
+    text-align: center;
+    size: 200px;
+}
+body {
+  background-image: url('Wild-weather-2017-02 copy.jpg');
+    text-align: center;
+
+  }
+  h2 {
+    margin-top:2em;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+
+  }
+  p {
+    color: red;
+  }
+
+  input
+  {
+    size: 30em;
+  }

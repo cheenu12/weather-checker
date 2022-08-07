@@ -5,7 +5,7 @@ app.use(express.static(__dirname +'/styles.css'));
 const https= require("https");
 
 app.use(bodyParser.urlencoded({extended:true}));
-
+app.use(express.static(__dirname + '/public'));
 app.get("/", function(req,res)
 {
 
